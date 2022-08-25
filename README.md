@@ -1,5 +1,6 @@
 # PTools
-Quick access to some common penetration testing tools List of Tools:
+Quick access to some common penetration testing tools. 
+List of Tools:
 
  - adPEAS
  - BloodHound-v4.2.0
